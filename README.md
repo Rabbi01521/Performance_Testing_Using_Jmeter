@@ -17,8 +17,8 @@ We conducted load testing with 450 concurrent users and a 10-second ramp-up time
 **The test results showed a 0% error rate and a total throughput of 45.50 requests per second.**
 
 <p align="center">
-  <img src="./Load_testing2.PNG" />
-  <img src="./Load_testing3.PNG" />
+  <img src="./images/Load_testing2.PNG" />
+  <img src="./images/Load_testing3.PNG" />
 </p>
 
 # Stress Testing
@@ -28,6 +28,6 @@ We also conducted stress testing with 500 concurrent users and a 10-second ramp-
 **The results showed an 8.1% error rate and a total throughput of 51.93 requests per second.**
 
 <p align="center">
-  <img src="./Stress_testing2.PNG" />
-  <img src="./Stress_testing3.PNG" />
+  <img src="./images/Stress_testing2.PNG" />
+  <img src="./images/Stress_testing3.PNG" />
 </p>
